@@ -10,6 +10,7 @@ import android.support.v7.app.AppCompatActivity;
 public class App extends Application {
     public static AppCompatActivity context;
 
+    //这是我多加的一个注释
     @Override
     public void onCreate() {
         super.onCreate();
